@@ -1,5 +1,5 @@
 # CIS-Win11
-A LGPO Configuration to apply CIS Windows 11 Standalone V3.0 settings.
+A LGPO Configuration to apply CIS Windows 11 Standalone V3.0 L1 settings.
 This is only for computers with group policy so basically windows 11 Pro as home doesnt have it included.
 
 Tutorial:
